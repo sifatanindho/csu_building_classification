@@ -4,7 +4,7 @@
 2nd place submission to the Club Computer Vision at CSU (CCVC) 1st ML Competition
 
 
-## Competition overview:
+## Competition overview
 
 ### Overview
 We collected N number of buildings in CSU for you! In this competition, you need to build a model can classify the building well. Competitors will build models that classify CSU buildings. Please check more details about the building image data, metric, submission, and rules in the description section.
